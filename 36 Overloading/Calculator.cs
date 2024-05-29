@@ -67,6 +67,7 @@ namespace _36_Overloading
         //반환 타입이 다른 것은 오버로딩으로 허용하지 않음
         public float Divide(int a, int b)
         {
+            onsole.WriteLine("qkqh");
             return a / b;
         }
 
