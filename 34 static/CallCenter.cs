@@ -51,6 +51,7 @@ namespace _35_static
         public static void Call()
         {
             Console.WriteLine("상담 가능한 상담사룰 찾고 있습니다.");
+            Console.WriteLine("qkqh");
         }
 
         //인스턴스 맴버 메서드 (내선번호로 전화 걸기)
