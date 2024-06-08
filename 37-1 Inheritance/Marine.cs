@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Marine
+public class Marine : TerranUnit 
 {
 	//생성자
 	public Marine() 
